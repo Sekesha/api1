@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba5d9381-f27f-4506-905b-8a49817f7f5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZiCipVT6cuedjKn7Dlhex9Xcqo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first_api_test" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\OSPanel\domains\first-api\components" />
+      <recent name="D:\OpenServer\OSPanel\domains\first-api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba5d9381-f27f-4506-905b-8a49817f7f5c" name="Default Changelist" comment="" />
+      <created>1585312657736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585312657736</updated>
+      <workItem from="1585312659090" duration="9515000" />
+      <workItem from="1585429617822" duration="792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1014" y="139" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585326992955">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1014" y="139" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585326992955" />
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1585328321334">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585328321334" />
+    <state x="1018" y="323" key="NewPhpClassDialog" timestamp="1585329450250">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1018" y="323" key="NewPhpClassDialog/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585329450250" />
+    <state x="1094" y="432" key="NewPhpFileDialog" timestamp="1585329350628">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1094" y="432" key="NewPhpFileDialog/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585329350628" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1585327994942">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585327994942" />
+    <state x="1058" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1585429997415">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1058" y="340" key="com.intellij.ide.util.TipDialog/1680.286.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1585429997415" />
+  </component>
+</project>
